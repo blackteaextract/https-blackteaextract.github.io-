@@ -1,0 +1,61 @@
+body {
+	font-family: Verdana, sans-serif ;
+	margin: auto;
+	padding: 20px;
+  	max-width: 720px;
+  	text-align: left;
+	text-transform: none ;
+	background: #f2d7bc ;
+	word-wrap: break-word;
+  	overflow-wrap: break-word;
+  	line-height: 1.5;
+	color: #160d04 ;
+}
+
+header {
+	text-transform: lowercase ;
+}
+
+a {
+	color: rgb(56, 56, 56);
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: left ;
+}
+
+footer {
+	text-align: center ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+	text-transform: none ;
+}

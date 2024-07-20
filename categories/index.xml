@@ -1,0 +1,93 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>blacktea_extract</title>
+	<link>https://blackteaextract.github.io/categories/</link>
+	<description>Recent content in Categories on blacktea_extract</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="https://blackteaextract.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>pessimist_optimist</title>
+		<link>https://blackteaextract.github.io/read/pessimist_optimist/</link>
+		<pubDate>Sat, 20 Jul 2024 14:04:30 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/read/pessimist_optimist/</guid>
+		<description>&lt;p&gt;cred. Max Horkheimer&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>test2</title>
+		<link>https://blackteaextract.github.io/see/see2/</link>
+		<pubDate>Fri, 19 Jul 2024 13:59:34 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/see/see2/</guid>
+		<description>&lt;p&gt;also empty atm :(&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>test1</title>
+		<link>https://blackteaextract.github.io/see/see1/</link>
+		<pubDate>Fri, 19 Jul 2024 13:49:08 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/see/see1/</guid>
+		<description>&lt;p&gt;empty atm :/&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>a start</title>
+		<link>https://blackteaextract.github.io/read/blog1/</link>
+		<pubDate>Fri, 19 Jul 2024 13:48:39 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/read/blog1/</guid>
+		<description>&lt;p&gt;Hey there :)&lt;/p&gt;
+&lt;p&gt;Today the journey of my own webpage begins.&lt;/p&gt;
+&lt;p&gt;Well not really to be honest.&lt;/p&gt;
+&lt;p&gt;So I was trying to&amp;hellip;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>.projects</title>
+		<link>https://blackteaextract.github.io/projects/</link>
+		<pubDate>Fri, 19 Jul 2024 13:45:26 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/projects/</guid>
+		<description>&lt;h3 id=&#34;projects-i-am-working-on-right-now&#34;&gt;projects I am working on right now:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;this website (no shit&amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>.about</title>
+		<link>https://blackteaextract.github.io/about/</link>
+		<pubDate>Fri, 19 Jul 2024 13:12:02 +0200</pubDate>
+		
+		<guid>https://blackteaextract.github.io/about/</guid>
+		<description>&lt;p&gt;This site is about me &amp;ndash; and the things that I am engaging with.&lt;/p&gt;
+&lt;h3 id=&#34;who-am-i&#34;&gt;who am I?&lt;/h3&gt;
+&lt;p&gt;Good question!&lt;/p&gt;
+&lt;p&gt;Right now I don&amp;rsquo;t know. Certainly I am a _&lt;strong&gt;human&lt;/strong&gt;. But I still &lt;strong&gt;don&amp;rsquo;t know&lt;/strong&gt; where my place is in all of this. So maybe I can leaverage this new way of expression on here to &lt;strong&gt;find out&lt;/strong&gt;?&lt;/p&gt;
+&lt;h3 id=&#34;what-am-i-interested-in&#34;&gt;what am I interested in?&lt;/h3&gt;
+&lt;p&gt;A lot!&lt;/p&gt;
+&lt;p&gt;And it &lt;strong&gt;constantly changes&lt;/strong&gt;. But I came to regognize &lt;strong&gt;common themes&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Philosophy&lt;/li&gt;
+&lt;li&gt;History&lt;/li&gt;
+&lt;li&gt;Technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;but-why&#34;&gt;but why?&lt;/h3&gt;
+&lt;p&gt;I want to &lt;strong&gt;reduce&lt;/strong&gt; my engagement with &lt;strong&gt;social media&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Eventually stop using it alltogether.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
